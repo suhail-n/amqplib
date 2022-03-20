@@ -1,12 +1,12 @@
 {
-  "name": "amqplib",
+  "name": "@suhail/amqplib",
   "homepage": "http://squaremo.github.io/amqp.node/",
   "main": "./channel_api.js",
   "version": "0.8.1",
-  "description": "An AMQP 0-9-1 (e.g., RabbitMQ) library and client.",
+  "description": "This is a fork of the AMQP 0-9-1 (e.g., RabbitMQ) library and client. This fork contains security patches for the url-parse lib",
   "repository": {
     "type": "git",
-    "url": "https://github.com/squaremo/amqp.node.git"
+    "url": "https://github.com/suhail-n/amqplib"
   },
   "engines": {
     "node": ">=10"
